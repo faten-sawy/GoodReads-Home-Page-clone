@@ -1,0 +1,129 @@
+.container {
+  /* background-color: aqua; */
+  height: auto;
+  min-height: 1500px;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  left: 17.5vw;
+  top: 0;
+  width: 62vw;
+}
+.leftSection {
+  /*   background-color: blueviolet;
+ */
+  width: 28%;
+}
+.middleSection {
+  /* background-color: black; */
+  width: 44%;
+  margin: 0.8rem;
+  margin-top: 1rem;
+  margin-left: 1.5rem;
+}
+.updates {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.updates > h5 {
+  text-transform: uppercase;
+  margin-bottom: 0;
+  font-size: 1em;
+}
+.updates > p {
+  display: block;
+  margin-bottom: 0;
+}
+.settingIcon {
+  color: gray;
+  text-transform: capitalize;
+}
+.updates > p > li {
+  position: relative;
+  left: 12px;
+}
+.rightSection {
+  /* background-color: chartreuse; */
+  width: 28%;
+}
+.image {
+  height: 350px;
+  padding-bottom: 1rem;
+  width: 100%;
+}
+.title {
+  text-transform: uppercase;
+  margin-top: 1rem;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 1em;
+}
+@media only screen and (min-width: 1220px) {
+  .container {
+    /* background-color: aquamarine; */
+    width: 95vw;
+    left: 2.5vw;
+    justify-content: center;
+  }
+}
+@media only screen and (min-width: 1500px) {
+  .container {
+    /*  background-color: blueviolet; */
+    width: 80vw;
+    left: 10vw;
+  }
+}
+@media only screen and (max-width: 1219px) {
+  .container {
+    width: 100vw;
+    left: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+    justify-content: start;
+  }
+
+  .middleSection {
+    width: 57%;
+    margin-left: 2rem;
+  }
+  .leftSection {
+    width: 37%;
+  }
+  /* .leftSection {
+    width: 30%;
+  } */
+}
+@media only screen and (max-width: 768px) {
+  .container {
+    justify-content: start;
+    width: 100vw;
+  }
+  .middleSection {
+    width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .leftSection {
+    display: none;
+  }
+  .rightSection {
+    display: none;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .container {
+    /*  background-color: yellowgreen; */
+    width: 100vw;
+    left: 0;
+    justify-content: center;
+  }
+  .middleSection {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

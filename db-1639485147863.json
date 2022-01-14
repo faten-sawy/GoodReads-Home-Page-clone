@@ -1,0 +1,320 @@
+{
+  "Books": [
+    {
+      "title": "ACSM Fitness Book",
+      "authors": [
+        "American College of Sports Medicine"
+      ],
+      "publisher": "Human Kinetics",
+      "publishedDate": 2003,
+      "description": "Start where you are and go wherever your goals take you. No other guide offers a more comprehensive plan for developing a personal fitness program and sticking with it. Developed by the American College of Sports Medicine, ACSM Fitness Bookoffers the total package from one of the most respected organizations in the field. In its first two editions, the ACSM Fitness Booksold more than 100,000 copies. Now the classic has been enhanced and expanded with the tools you need to succeed. From simple, step-by-step instruction to new insights on nutrition, weight control, motivation, and overcoming setbacks, the authors provide the help you need to reach beyond your personal best. The key to making any fitness program effective is finding the right level of difficulty for your current ability and creating a plan that will take you to the next level. With a simple and scientifically proven fitness test, the ACSM Fitness Bookgives you everything you need to determine your starting point and monitor your ongoing progress. With sample programs, worksheets, and more, ACSM Fitness Booktakes the guesswork out of getting started and offers color photos of a variety of exercises that require minimal equipment and space. Whether your objective is to improve cardiovascular endurance, muscular strength, flexibility, or overall body condition, the ACSM Fitness Bookwill lay out a proven plan for reaching your goal in a way that works for you. Richly illustrated and easy to follow, it is the one book you need for the tools, and the motivation, to put your personal fitness program on track.",
+      "averageRating": 5,
+      "categories": [
+        "Health & Fitness"
+      ],
+      "id": "qpdRgb9X3EcC",
+      "language": "en",
+      "pageCount": 175,
+      "ratingsCount": 1,
+      "imageLink": "http://books.google.com/books/content?id=qpdRgb9X3EcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Fitness!",
+      "authors": [
+        "Karen Mazzeo",
+        "Lauren Mangili"
+      ],
+      "publisher": "Cengage Learning",
+      "publishedDate": "2012-02-03",
+      "description": "Cengage Learning Activity Series From aerobics and yoga to bowling, tennis, weight training, and more. Cengage Learning offers a complete line of activities texts to meet your teaching needs. Written for individuals of all skill levels and backgrounds, the Cengage Learning Activity Series goes beyond the mere fundamentals, showing students how to improve, excel, and simply get more enjoyment from their favorite physical activities. FITNESS THROUGH AEROBICS, STEP TRAINING, AND WALKING, Fifth Edition, uses an easy-to-follow sequential learning order that provides methods to achieve total fitness goals. The text covers the principles and techniques of aerobic dance exercise, step training, and fitness walking, with a new focus on strength training. Students will be able to structure a complete physical and mental training program that can work for a lifetime. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+      "averageRating": 4,
+      "categories": [
+        "Medical"
+      ],
+      "id": "zpQ4Vv30fAgC",
+      "language": "en",
+      "pageCount": 272,
+      "ratingsCount": 1,
+      "imageLink": "http://books.google.com/books/content?id=zpQ4Vv30fAgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Barre Fitness",
+      "authors": [
+        "Fred DeVito",
+        "Elisabeth Halfpapp"
+      ],
+      "publisher": "Fair Winds Press (MA)",
+      "publishedDate": "2015-11-15",
+      "description": "Barre Fitness provides 100 at-home barre exercises from the fundamentals to more complex moves with a focus on building strength and improving technique--no barre required!",
+      "averageRating": 3,
+      "categories": [
+        "Health & Fitness"
+      ],
+      "id": "LKWSCgAAQBAJ",
+      "language": "en",
+      "pageCount": 176,
+      "ratingCount": 30,
+      "imageLink": "http://books.google.com/books/content?id=LKWSCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Fitness and Health",
+      "authors": [
+        "Brian J. Sharkey",
+        "Steven E. Gaskill"
+      ],
+      "publisher": "Human Kinetics",
+      "publishedDate": "2007",
+      "description": "This book explains in plain English how the body responds to physical activity, why physical activity is so important to health, and how best to become physically active. You'll learn how to create programs to improve your aerobic fitness; increase your muscular strength, endurance, and flexibility; control your diet and weight; and improve your performance at work and in sports. With more than 100,000 copies sold, this classic reference (formerly titled Physiology of Fitness) is your source for accurate and insightful information. Now updated and redesigned, this comprehensive text will show you how to improve and maintain your health through regular and enjoyable physical activity.",
+      "averageRating": 3,
+      "categories": [
+        "Health & Fitness"
+      ],
+      "id": "iyn4xULK4JUC",
+      "language": "en",
+      "pageCount": 429,
+      "ratingCount": 20,
+      "imageLink": "http://books.google.com/books/content?id=iyn4xULK4JUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Fitness Walking 2nd Editon",
+      "authors": [
+        "Therese Iknoian"
+      ],
+      "publisher": "Human Kinetics",
+      "publishedDate": "1995",
+      "description": "This book explains in plain English how the body responds to physical activity, why physical activity is so important to health, and how best to become physically active. You'll learn how to create programs to improve your aerobic fitness; increase your muscular strength, endurance, and flexibility; control your diet and weight; and improve your performance at work and in sports. With more than 100,000 copies sold, this classic reference (formerly titled Physiology of Fitness) is your source for accurate and insightful information. Now updated and redesigned, this comprehensive text will show you how to improve and maintain your health through regular and enjoyable physical activity.",
+      "averageRating": 3,
+      "categories": [
+        "Health & Fitness"
+      ],
+      "id": "GSbaYnBTFtsC",
+      "language": "en",
+      "pageCount": 160,
+      "ratingsCount": 2,
+      "imageLink": "http://books.google.com/books/content?id=GSbaYnBTFtsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Fitness for Work",
+      "authors": [
+        "Keith T Palmer",
+        "Ian Brown",
+        "John Hobson"
+      ],
+      "publisher": "OUP Oxford",
+      "publishedDate": "2013-01-24",
+      "description": "The 'bible' of occupational health, Fitness for Work is the most in-depth and comprehensive resource available on the effects of ill health on employment. Expert authors provide practical guidance on the employment potential of anyone with an illness or disability, as well as examining the art and skills of fitness for work assessment and its ethical framework. Fully revised and updated, Fitness for Work, fifth edition now includes, for the first time, important new chapters on work in cancer survivors, health promotion in the workplace, and managing and avoiding sickness absence. Following in the all-encompassing and comprehensive tradition of the previous editions, it also continues to provide coverage of and information on support for rehabilitation, work at older ages, health screening, and the full array of medical and surgical health problems that can affect fitness for work. Chapters are organized by medical condition to enable effortless reference, and are co-authored by a topic specialist and a specialist occupational physician providing a comprehensive view of the subject. The latest developments in legislation and government guidelines are included ensuring the book is up-to-date and provides the most current procedures in the field. Fitness for Work delivers a wealth of valuable consensus guidance, codes of practice, and locally evolved standards to enable well-informed clinical judgements to be made. All occupational health professionals should have a copy of this highly-regarded resource on their desks.",
+      "averageRating": 4.5,
+      "categories": [
+        "Medical"
+      ],
+      "id": "Du_mTZwlWRUC",
+      "language": "en",
+      "pageCount": 736,
+      "ratingsCount": 2,
+      "imageLink": "http://books.google.com/books/content?id=Du_mTZwlWRUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Programming in Prolog",
+      "authors": [
+        "William Clocksin",
+        "Christopher S. Mellish"
+      ],
+      "publisher": "Springer Science & Business Media",
+      "publishedDate": "2003-07-25",
+      "description": "Originally published in 1981, this was the first textbook on programming in the Prolog language. Today it remains the definitive introductory text on the subject. Though many Prolog textbooks have been published since, this one has withstood the test of time because of its comprehensiveness, tutorial approach, and emphasis on general programming applications. Since the previous edition of Programming in Prolog, the language has been standardised by the International Organization for Standardization (ISO) and this book has been updated accordingly. The authors have also introduced new material, clarified some explanations, and have removed appendices about Prolog systems that are now obsolete.",
+      "averageRating": 4,
+      "categories": [
+        "Computers"
+      ],
+      "id": "VjHk2Cjrti8C",
+      "language": "en",
+      "pageCount": 299,
+      "ratingsCount": 3,
+      "imageLink": "http://books.google.com/books/content?id=VjHk2Cjrti8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Practical C++ Programming",
+      "authors": [
+        "Steve Oualline"
+      ],
+      "publisher": "\"O'Reilly Media, Inc.\"",
+      "publishedDate": "2003",
+      "description": "Teaches the programming language, covering topics including syntax, coding standards, object classes, templates, debugging, and the C++ preprocessor.",
+      "averageRating": 4,
+      "categories": [
+        "Computers"
+      ],
+      "id": "pXDzdJ_1E3oC",
+      "language": "en",
+      "pageCount": 549,
+      "ratingsCount": 20,
+      "imageLink": "http://books.google.com/books/content?id=pXDzdJ_1E3oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Programming Perl",
+      "authors": [
+        "Larry Wall",
+        "Tom Christiansen",
+        "Jon Orwant"
+      ],
+      "publisher": "\"O'Reilly Media, Inc.\"",
+      "publishedDate": "2004",
+      "description": "Introduces the programming language to beginners and provides a Perl language reference for experienced users, covering operators, statements, formats, modules, objects, threads, tied variables, debugging, and security.",
+      "averageRating": 4,
+      "categories": [
+        "Computers"
+      ],
+      "id": "xx5JBSqcQzIC",
+      "language": "en",
+      "pageCount": 347,
+      "ratingsCount": 58,
+      "imageLink": "http://books.google.com/books/content?id=xx5JBSqcQzIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "The Secret Path to Contract Programming Riches",
+      "authors": [
+        "Michael Nigohosian"
+      ],
+      "publisher": "McGillis, Wilcox, Webster & Co. Inc",
+      "publishedDate": "2004-04-01",
+      "description": "Now in eBook format - the bestselling contract programming book, by veteran computer consultant, Michael Nigohosian! Written for the computer student, computer hobbyist and career-changer, this bestseller shows that you don't have to be a seasoned computer professional before you can consider creating a career as an expert programmer-consultant. - Mastery - Master the important, real-world fundamentals of quickly creating a rewarding, independent, computer programming career starting with learning how to learn computer science using Rapid Mastery Technology(tm). Discover how to concurrently get high-powered, real-world experience with your training and use it to increase your salary and position on your first job. Add to this, insider secrets on career control and longevity-and you can't do without this computer career success guide. - Uniqueness - What sets this bestseller apart from any other book on programming or consulting is that it is the only book that shows the computer hobbyist not only WHAT TO DO to become a high-paid contract programmer, but HOW TO DO IT! Some books explain what being a computer consultant is like from a day-to-day point of view and others teach you how to program in a specific language. But, no book provides a step-by-step system on how to become an absolute expert computer programmer and then take that knowledge to go virtually, directly into high-paid contract programming. - Timeliness - This powerful book comes at the right time and with the right information. Using the same technology developed and used by the author, the reader will be able to accelerate and concentrate the acquisition of specific industry experience. There's little corner-cutting here. Nigohosian stresses excellence, focus and determination throughout the book. By the time the reader is through with the program he or she will be ready to accept a high-paid contract programming position, by-passing many of the typical steps and years of experience needed.",
+      "averageRating": 4,
+      "categories": [
+        "Computers"
+      ],
+      "id": "vB3zrcVkA_AC",
+      "language": "en",
+      "pageCount": 347,
+      "ratingsCount": 58,
+      "imageLink": "http://books.google.com/books/content?id=vB3zrcVkA_AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Types and Programming Languages",
+      "authors": [
+        "Benjamin C. Pierce"
+      ],
+      "publisher": "MIT Press",
+      "publishedDate": "2002",
+      "description": "A comprehensive introduction to type systems and programming languages.",
+      "averageRating": 4,
+      "categories": [
+        "Computers"
+      ],
+      "id": "ti6zoAC9Ph8C",
+      "language": "en",
+      "pageCount": 623,
+      "ratingsCount": 9,
+      "imageLink": "http://books.google.com/books/content?id=ti6zoAC9Ph8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Programming for TV, Radio, and the Internet",
+      "authors": [
+        "Philippe Perebinossoff",
+        "Brian Gross",
+        "Lynne S. Gross"
+      ],
+      "publisher": "Taylor & Francis",
+      "publishedDate": "2005",
+      "description": "Where do program ideas come from? How are concepts developed into saleable productions? Who do you talk to about getting a show produced? How do you schedule shows on the lineup? What do you do if a series is in trouble? The answers to these questions, and many more, can be found in this comprehensive, in-depth look at the roles and responsibilities of the electronic media programmer. Topics include: Network relationships with affiliates, the expanded market of syndication, sources of programming for stations and networks, research and its role in programming decisions, fundamental appeals to an audience and what qualities are tied to success, outside forces that influence programming, strategies for launching new programs or saving old ones. Includes real-life examples taken from the authors' experiences, and 250+ illustrations! * Completely updated to include: new programming forms, changes in programming style, and more! * Updated Glossary! * Study questions for each chapter * Companion website for students and Instructor's Manual",
+      "averageRating": 4,
+      "categories": [
+        "Computers"
+      ],
+      "id": "MZRt-W8Hq7UC",
+      "language": "en",
+      "pageCount": 324,
+      "ratingsCount": 1,
+      "imageLink": "http://books.google.com/books/content?id=MZRt-W8Hq7UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Dinner with DiMaggio",
+      "authors": [
+        "Rock Positano",
+        "John Positano"
+      ],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2017-05-09",
+      "description": "The real Joe DiMaggio, remembered by the man who knew him best in the last decade of his life—candid and little-known stories about icons from Ted Williams, Lou Gehrig, and his Yankees teammates on the field to Marilyn Monroe, Frank Sinatra, and other great celebrities off the field. Dr. Rock Positano, an internationally renowned foot specialist in New York City, was introduced to Joe DiMaggio by the dean of New York sports writers, Bill Gallo, in 1990. The Yankee Clipper's career-ending heel spur injury and botched surgeries brought them together. During the time Dr. Positano successfully treated the Yankee Clipper, a friendship slowly developed. As Dr. Positano would learn, DiMaggio moved very carefully and deliberately. Dinner with DiMaggio follows the story of their friendship from its star-struck beginning through all its highs and lows over the next decade. Forty years younger than DiMaggio, Dr. Positano became like a surrogate son. Positano's accounts of their times together reveal DiMaggio's many rituals and quirks: the same meals at the same restaurants, the same pals in New York and Florida, jacket and tie everywhere. At the pinnacle of his fame, DiMaggio had learned to be guarded and carefully managed his image and private life. As his trust in his young friend grew, DiMaggio opened up about Marilyn, but also about his first wife, Dorothy Arnold, the mother of his son and the real love of his life. The Yankee Clipper knew everyone, and Positano shares never-before-told stories of famous people DiMaggio admired and those he didn't. This is DiMaggio as he really was: sometimes cranky and calculating, but more often charming, generous, loyal, and always big-hearted when it came to kids. The stories and experiences he shared with Rock Positano comprise an intimate portrait of one of the great stars of baseball and one of the icons of the twentieth century.",
+      "averageRating": 4,
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "id": "83XGDgAAQBAJ",
+      "language": "en",
+      "pageCount": 368,
+      "ratingsCount": 6,
+      "imageLink": "http://books.google.com/books/content?id=83XGDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "Croatia",
+      "authors": [
+        "Ivo Goldstein"
+      ],
+      "publisher": "McGill-Queen's Press - MQUP",
+      "publishedDate": "1999",
+      "description": "When in the fourth century the Roman empire split into the Western and Eastern empires, the boundary between the two stretched from the Montenegrin coast up the river Drina to the confluence of the Sava and the Danube and then further north. This boundary has remained virtually unchanged for 1,500 years: the European, Catholic West and the Orthodox East meet on Slav territory. There were, and still are, ethnic similarities between the peoples on either side of the divide, but their culture and history differ fundamentally. The Croats and Croatia, on the western side of the divide, are traditionally linked with Hungarian, Italian, and German regions and Western Europe, and are also influenced by their long Mediterranean coastline. Ivo Goldstein's Croatia provides a necessary, accessible history of development of what is now an independent state. Croatia includes major sections on the early medieval Croatian state (until 1101), the periods of union with Hungary (1102-1526) and with Austria (1526-1918), incorporation in Yugoslavia (1918-91) and the creation of a sovereign state. Charting social, economic, and cultural developments, Goldstein shows us that this complex historical pattern explains many of the political developments of today.",
+      "averageRating": 3.5,
+      "categories": [
+        "History"
+      ],
+      "id": "HJexhW3C0TIC",
+      "language": "en",
+      "pageCount": 281,
+      "ratingsCount": 2,
+      "imageLink": "http://books.google.com/books/content?id=HJexhW3C0TIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "A History of Pagan Europe",
+      "authors": [
+        "Prudence Jones",
+        "Nigel Pennick"
+      ],
+      "publisher": "Psychology Press",
+      "publishedDate": "1995",
+      "description": "The first comprehensive study of its kind, this fully illustrated book establishes Paganism as a persistent force in European history with a profound influence on modern thinking. From the serpent goddesses of ancient Crete to modern nature-worship and the restoration of the indigenous religions of eastern Europe, this wide-ranging book offers a rewarding new perspective of European history. In this definitive study, Prudence Jones and Nigel Pennick draw together the fragmented sources of Europe's native religions and establish the coherence and continuity of the Pagan world vision. Exploring Paganism as it developed from the ancient world through the Celtic and Germanic periods, the authors finally appraise modern Paganism and its apparent causes as well as addressing feminist spirituality, the heritage movement, nature-worship and `deep' ecology This innovative and comprehensive history of European Paganism will provide a stimulating, reliable guide to this popular dimension of religious culture for the academic and the general reader alike.",
+      "averageRating": 3,
+      "categories": [
+        "History"
+      ],
+      "id": "LzIVaNGrY4AC",
+      "language": "en",
+      "pageCount": 262,
+      "ratingsCount": 3,
+      "imageLink": "http://books.google.com/books/content?id=LzIVaNGrY4AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    },
+    {
+      "title": "The Footnote",
+      "authors": [
+        "Anthony Grafton"
+      ],
+      "publisher": "Harvard University Press",
+      "publishedDate": "1999",
+      "description": "In this engrossing account, footnotes to history give way to footnotes as history, recounting in their subtle way the curious story of the progress of knowledge in written form.",
+      "averageRating": 4,
+      "categories": [
+        "History"
+      ],
+      "id": "VO2aFrQF24kC",
+      "language": "en",
+      "pageCount": 241,
+      "ratingsCount": 2,
+      "imageLink": "http://books.google.com/books/content?id=VO2aFrQF24kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "shelf": null
+    }
+  ]
+}

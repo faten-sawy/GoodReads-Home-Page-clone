@@ -1,0 +1,10 @@
+p{
+   display: none;
+}
+p:first-line {
+    display:block;
+}
+span{
+    margin: 20px;
+    text-align: center;
+}

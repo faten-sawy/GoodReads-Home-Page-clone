@@ -1,0 +1,31 @@
+.container {
+  padding-top: 1rem;
+  border-top: 0.5px solid #d4d4dd;
+  padding-bottom: 1rem;
+  border-bottom: 0.5px solid #d4d4dd;
+}
+.container > h6 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.container > p {
+  color: gray;
+  display: block;
+  font-size: 0.8rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+.container > img {
+  width: 100%;
+  height: 150px;
+}
+.link {
+  display: inline-block;
+  color: #006672;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+.link:hover {
+  color: #006672;
+}

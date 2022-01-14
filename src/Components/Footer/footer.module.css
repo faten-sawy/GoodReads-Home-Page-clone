@@ -1,0 +1,58 @@
+.container {
+  margin-top: 1rem;
+}
+.container div:nth-child(1) {
+  display: flex;
+  justify-content: space-between;
+}
+.container ul {
+  list-style: none;
+  padding: 0;
+  color: #32362d;
+}
+.container ul li:first-of-type {
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #32362d;
+  font-size: 0.9rem;
+}
+ul > li > a {
+  color: #32362d;
+  font-size: 0.9em;
+}
+ul > li > a:hover {
+  color: #32362d;
+}
+.connect {
+}
+.connect h6 {
+  text-transform: uppercase;
+  color: #32362d;
+  font-weight: 600;
+  font-size: 1em;
+}
+.connect ul {
+  display: inline-flex;
+  width: 10vw;
+  font-size: 1.8rem;
+  color: #bfc0c0;
+}
+.item {
+  margin-right: 0.7rem;
+  cursor: pointer;
+}
+.download {
+  display: flex;
+  justify-content: space-between;
+}
+.download img {
+  width: 47%;
+  cursor: pointer;
+  height: 40px;
+}
+.container p {
+  display: block;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #bfc0c0;
+}

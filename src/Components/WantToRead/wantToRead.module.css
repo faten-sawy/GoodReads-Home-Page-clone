@@ -1,0 +1,26 @@
+.container {
+  /*  background-color: aquamarine; */
+  height: auto;
+  min-height: 150px;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 00.2px solid #d4d4dd /* #e5e5e5 */;
+}
+.container img {
+  width: 70px;
+  height: 100px;
+  margin-right: 0.5rem;
+  margin-bottom: 00.5rem;
+}
+.title {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+.link {
+  color: #006672;
+  font-size: 0.9rem;
+}
+.link:hover {
+  color: #006672;
+}

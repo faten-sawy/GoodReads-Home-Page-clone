@@ -1,0 +1,22 @@
+.linksContainer {
+  font-size: 0.9rem;
+  border-bottom: 0.2px solid #e5e5e5;
+  padding-bottom: 1rem;
+}
+.link {
+  margin-right: 0.5rem;
+  color: #006672;
+}
+.link:hover {
+  color: #006672;
+}
+.link::after {
+  content: dot;
+}
+.title {
+  font-size: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-family: "Domine", serif;
+  font-weight: 600;
+}
