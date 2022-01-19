@@ -46,25 +46,9 @@ function Post() {
           </div>
           <div className={styled.topSection}>
             {flag ? (
-              <CustomCard
-                userName={item.userName}
-                src={item.book.imageLink}
-                title={item.book.title}
-                author={item.book.authors}
-                rating={item.book.averageRating}
-                description={item.book.description}
-                userImage="https://i.pinimg.com/736x/f0/98/c9/f098c9ace101131c6f4b865fe06a878f.jpg"
-              />
+              <CustomCard book={item.book} />
             ) : (
-              <SecondCard
-                userName={item.userName}
-                src={item.book.imageLink}
-                title={item.book.title}
-                author={item.book.authors}
-                rating={item.book.averageRating}
-                description={item.book.description}
-                userImage="https://i.pinimg.com/736x/f0/98/c9/f098c9ace101131c6f4b865fe06a878f.jpg"
-              />
+              <SecondCard book={item.book} />
             )}
             <div className={styled.linksContainer}>
               <span className={styled.links}>Like</span>

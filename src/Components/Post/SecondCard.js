@@ -1,20 +1,22 @@
 import React from "react";
 import BookCard from "../Cards/Book";
 
-function SecondCard({ src, alt, title, author, rating, description }) {
+function SecondCard({ book }) {
   return (
     <BookCard style={styles.container}>
       <BookCard.Row>
-        <BookCard.Image style={styles.image} src={src} alt={alt} />
+        <BookCard.Image style={styles.image} src={book.imageLink} />
         <BookCard.BookInfo>
-          <BookCard.Title style={styles.title}>{title}</BookCard.Title>
-          <BookCard.Author style={styles.author}>{author}</BookCard.Author>
+          <BookCard.Title style={styles.title}>{book.title}</BookCard.Title>
+          <BookCard.Author style={styles.author}>
+            {book.authors}
+          </BookCard.Author>
 
           <BookCard.Changer style={styles.changer} />
         </BookCard.BookInfo>
       </BookCard.Row>
       <BookCard.Description style={styles.description}>
-        {description}
+        {book.description}
       </BookCard.Description>
     </BookCard>
   );

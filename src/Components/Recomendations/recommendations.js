@@ -26,7 +26,7 @@ function Recommendations() {
           )
         )
       );
-    console.log(recommendBooks);
+
     setBook(recommendBooks[index]);
   }, []);
 
@@ -37,8 +37,6 @@ function Recommendations() {
       setBook(recommendBooks[index + 1]);
       console.log(index);
     }
-
-    console.log(book);
   };
 
   /*  console.log(recommendBooks[3].imageLink); */
@@ -64,42 +62,6 @@ function Recommendations() {
         View all Books similar to <b>Programming Perl</b>
       </Link>
     </div>
-
-    /* <div className={styled.container}>
-      <h6 className={styled.subTitle}>Recommendations</h6>
-       <i style={{ fontSize: "40px" }} class="bi bi-caret-right"></i>
-      <p className={styled.text}>
-        Because you are currently reading <span>Programming Perl:</span>
-      </p>
-      {recommendBooks[0] && (
-        <div className={styled.bookContainer}>
-          <div>
-            <div className={styled.imageDiv}>
-              <img src={recommendBooks[0].imageLink} />
-            </div>
-            <div className={styled.info}>
-              <h5 className={styled.bookName}>{recommendBooks[0].title}</h5>
-              <h6
-                className={styled.bookAuthor}
-              >{`by ${recommendBooks[0].authors[0]}`}</h6>
-              <div className={styled.ratingDiv}>
-                <StarRatings
-                  rating={recommendBooks[0].averageRating}
-                  starRatedColor="orange"
-                  numberOfStars={5}
-                  starEmptyColor=" #d8d8d8"
-                  starDimension="15px"
-                  starSpacing="0px"
-                />
-                <span style={{ margin: "0" }}>
-                  {recommendBooks[0].averageRating}
-                </span>
-              </div>
-            </div>
-          </div>
-        </div>
-      
-    </div> */
   );
 }
 

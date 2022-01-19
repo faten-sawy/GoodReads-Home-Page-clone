@@ -27,20 +27,7 @@ function CurrentlyReading() {
       <h6 className={styled.title}> CURRENTLY READING</h6>
       <div>
         {currentReadingBooks?.map((item) => (
-          <CustomCard
-            src={item.imageLink}
-            title={item.title}
-            author={item.authors[0]}
-            maxValue={item.pageCount}
-            currentValue="200"
-          />
-          /* <CustomCard
-            src={item.imageLink}
-            title={item.title}
-            author={item.authors}
-            maxValue={item.pageCount}
-            currentValue="200"
-          /> */
+          <CustomCard book={item} currentValue="200" />
         ))}
 
         <div className={styled.linksContainer}>
